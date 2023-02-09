@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.edeesis.micronaut
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, data, data-r2dbc, gradle, h2, http-client, jackson-databind, kotest, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, netty-server, r2dbc, readme, shade, yaml]
